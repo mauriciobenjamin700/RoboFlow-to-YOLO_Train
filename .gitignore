@@ -1,0 +1,9 @@
+runs
+yolov8n.pt
+.venv
+.python-version
+__pycache__
+Boundingbox
+COCO
+dataset_fail
+FAMACHA_SEG.v1i.yolov8-obb.zip
