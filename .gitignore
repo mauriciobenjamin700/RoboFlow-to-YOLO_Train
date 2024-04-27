@@ -6,4 +6,5 @@ __pycache__
 Boundingbox
 COCO
 dataset_fail
+dataset-YOLO
 FAMACHA_SEG.v1i.yolov8-obb.zip
